@@ -7,3 +7,5 @@ Scatter onion rings onto prepared baking sheet. Place chicken thighs on top of o
 Roast chicken in preheated oven until the skin is browned, meat is tender, and the juices run clear, 35 to 45 minutes.
 Transfer chicken and onions onto a serving platter. Pour pan drippings into a saucepan, bring to a boil, and continue boiling, stirring often, until drippings are reduced by half, 3 to 4 minutes. Skim excess fat from pan sauce.
 Spoon reduced pan sauce over each chicken thigh and serve.
+
+Changed through Github
